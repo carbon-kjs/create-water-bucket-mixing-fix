@@ -1,6 +1,6 @@
 {
   "name": "create-water-bucket-mixing-fix",
-  "version": "1.0.0",
+  "version": ["1.0.0"],
   "author": "dtnk#7473",
   "minecraftVersion": "1.19.2",
   "description": "Replace auto-generated water bucket mixing crafts with actual water.",
